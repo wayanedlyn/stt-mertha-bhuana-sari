@@ -1,0 +1,6 @@
+{
+  "name": "STT Mertha Bhuna Sari — Sistem Informasi Keanggotaan",
+  "description": "Sistem Informasi Keanggotaan Sekaa Teruna Teruni Mertha Bhuna Sari, Banjar Mantring, Tampaksiring untuk pengelolaan data anggota, kepengurusan, pendaftaran, serta agenda dan presensi kegiatan tanpa fitur kas dan iuran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
